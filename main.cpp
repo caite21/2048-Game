@@ -2,7 +2,6 @@
 	2048 Project main file
 
 to compile:
-g++ -o my_program main.cpp -I"C:/Users/caite/Documents/Projects/Tetris/SFML-2.5.1/include" -L"C:/Users/caite/Documents/Projects/Tetris/SFML-2.5.1/lib" -lsfml-graphics -lsfml-window -lsfml-system
 // g++ -Wall -g main.cpp -o main.exe
 
 to run exe, also need:
